@@ -3,10 +3,14 @@ ctrl-a l   --- switch between two last windows
 
 ### Awesome:
 mod-o      --- move to second screen
+mod-ctrl-j/k --- focus other screen
 
 ### Vortex Pok3r RGB
 fn-shift-esc     --- ~ symbol
 fn-esc           --- ` symbol
+
+### Ranger
+Cli filemanager
 
 ### Gentoo
 
