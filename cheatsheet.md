@@ -12,6 +12,9 @@ fn-esc           --- ` symbol
 ### Ranger
 Cli filemanager
 
+### Drive
+Google drive sync tool
+
 ### Gentoo
 
 #### MineTime unpack
