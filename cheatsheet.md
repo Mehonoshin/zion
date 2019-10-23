@@ -15,6 +15,9 @@ Cli filemanager
 ### Drive
 Google drive sync tool
 
+### Custom tools
+`note some_title` --- creates a note file in `~/notes` directory and opens vim
+
 ### Gentoo
 
 #### MineTime unpack
