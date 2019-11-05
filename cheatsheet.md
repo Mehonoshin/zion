@@ -3,6 +3,7 @@ ctrl-a l   --- switch between two last windows
 ctrl-a &   --- kill window
 ctrl-a $   --- rename session
 ctrl-a d   --- detach session
+ctrl-a !   --- move pane to a new window
 
 ### Awesome:
 mod-o      --- move to second screen
