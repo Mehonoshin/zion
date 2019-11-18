@@ -24,6 +24,11 @@ Google drive sync tool
 
 ### Gentoo
 
+qlist -IRv   --- list of installed packeges with versions
+
+#### Overlays
+
+
 #### MineTime unpack
 
 * ar x MineTime_1.6.0_amd64.deb
@@ -34,3 +39,14 @@ Google drive sync tool
 * cd MineTime
 * tar xvf data.tar.xz
 * sudo ln -s /home/mexx/Applications/MineTime/opt/MineTime/minetime /usr/bin/minetime
+
+### Network
+
+#### Office gateway(EdgeMax)
+
+show vpn ipsec status --- show ipsec status
+show log tail         --- print global system log
+
+#### Mikrotik gateway
+
+log print follow --- print logs
