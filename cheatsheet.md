@@ -4,6 +4,7 @@ ctrl-a &   --- kill window
 ctrl-a $   --- rename session
 ctrl-a d   --- detach session
 ctrl-a !   --- move pane to a new window
+crtl-a l   --- switch to previous tab
 
 ### Awesome:
 mod-o      --- move to second screen
