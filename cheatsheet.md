@@ -1,3 +1,7 @@
+### Vim:
+
+export LC_ALL=en_US.UTF-8   --- fix asci sy
+
 ### Tmux:
 ctrl-a l   --- switch between two last windows
 ctrl-a &   --- kill window
@@ -24,6 +28,10 @@ drive pull books --- sync books directory
 
 ### Custom tools
 `note some_title` --- creates a note file in `~/notes` directory and opens vim
+
+### Linux
+
+`for file in /proc/*/status ; do awk '/VmSwap|Name/{printf $2 " " $3}END{ print ""}' $file; done | sort -k 2 -n -r | less` --- find a process who is swapping
 
 ### Gentoo
 
