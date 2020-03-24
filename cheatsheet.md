@@ -53,6 +53,8 @@ qlist -IRv   --- list of installed packeges with versions
 
 ### Network
 
+`ssh -L 3001:localhost:3000 zion` --- forward port 3000 from zion to localhost
+
 #### Office gateway(EdgeMax)
 
 show vpn ipsec status --- show ipsec status
