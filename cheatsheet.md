@@ -1,6 +1,6 @@
 ### Vim:
 
-export LC_ALL=en_US.UTF-8   --- fix asci sy
+* `export LC_ALL=en_US.UTF-8`   --- fix asci symbols over SSH
 
 ### Tmux:
 * `ctrl-a l`   --- switch between two last windows
